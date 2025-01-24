@@ -1,7 +1,8 @@
  # Python Programming Practice Questions 👨‍💻 !!!
 
-    Welcome to the ultimate collection of Python programming practice problems! 🥳 This repository 📁 contains
-    120 practice questions covering a wide range of topics, from beginner-friendly basics ✅ to advanced 🧠 Python concepts. 
+    Welcome to the ultimate collection of Python programming practice problems!
+    This repository 📁 contains 120 practice questions covering a wide range of topics, 
+    from beginner-friendly basics ✅ to advanced 🧠 Python concepts. 
 
 
 # How to use
